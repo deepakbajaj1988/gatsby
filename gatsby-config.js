@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `getsbyone`,
+    title: `Kinex Media`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: [{
