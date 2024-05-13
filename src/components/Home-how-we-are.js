@@ -15,12 +15,12 @@ const HowWeAre = () => {
         <p  className="we-create">We create cutting-edge <span  className="under_line">B2B, B2C &amp; D2C</span> experiences<br />  
           that elevate brands, maximize ROI, and generate conversions.<br />
           We’re hard-working creatives who let our work speak for itself.</p> 
-      </h3>  
-      <Link to="/contact-us"  className=" inline-block mt-3"><span  className="under_line_read-more text-[20px] font-semibold">Read More</span></Link> 
+      </h3>   
+      <Link to="/get-in-touch"  className=" inline-block mt-3"><span  className="under_line_read-more text-[20px] font-semibold">Read More</span></Link> 
     </div>
 
     <div  className="inline-block absolute right-[30px] top-[-62px] smallLaptop:top-[-52px] tabletPortrait:top-[-72px]">
-    <Link to="/contact-us"  className="underline h-full items-center gap-[15px] text-[16px] font-semibold text-black justify-center font-medium cutom_news_bt btn_animation no_reletive m-auto flex load-more-posts">View Case Study
+    <Link to="/get-in-touch"  className="underline h-full items-center gap-[15px] text-[16px] font-semibold text-black justify-center font-medium cutom_news_bt btn_animation no_reletive m-auto flex load-more-posts">View Case Study
         <span  className="arrow_box_inner"> 
           <svg  className="" loading="lazy" version="1.2" viewBox="0 0 21 11" width="21" height="11">
             <style></style>

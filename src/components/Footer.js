@@ -1,16 +1,11 @@
 import * as React from "react";
 import { Link } from "gatsby";
 import { StaticImage } from 'gatsby-plugin-image'
- 
- 
 
 const Header = () => { 
-  return (
+  return ( 
     <>
-
 <footer className="relative bg-[#141414]">
-
-
 <div className="border-t border-[#2c2c2c]" id="footer">
     <div className="pb-20 pt-32   FullScreen:py-[100px] smallLaptop:py-[80px] tablet:py-[70px] tabletPortrait:py-[60px] mobile:py-[50px]"> 
         <div className="max-w-[1480px] mx-auto px-[15px]">  

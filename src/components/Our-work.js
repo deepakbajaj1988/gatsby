@@ -17,7 +17,7 @@ const OurWork = () => {
         </h2>
         <h3 className="font-semibold text-[30px] leading-[45px] my-16 mt-2 tablet:mb-4 mobile:text-[20px] mobile:leading-[25px]">
           <p className="mobile:py-[20px]">From complex ecommerce solutions to marketing materials and Wesite design — you’ll like our collaborative approach.</p> 
-        </h3>
+        </h3> 
       </div> 
       <div className="">
         <div className="flex gap-5 justify-end mobile:justify-start">

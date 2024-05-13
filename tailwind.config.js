@@ -30,6 +30,7 @@ module.exports = {
         'break_t': {'max': '1000px'},
         'break_m': {'max': '920px'}, 
         'mobile': {'max': '767px'},   
+        'mobilemin': {'min': '767px'},   
         'mobileLand': {'max': '620px'},
         'mobilePortrait': {'max': '480px'}, 
       },
@@ -38,7 +39,8 @@ module.exports = {
         'home_slider': '550px 1fr', 
         'awrd-winning': '1fr 400px',   
         'awrd-winning-tablet': '1fr 200px',      
-        'testimomial-grid': '170px 1fr'       
+        'testimomial-grid': '170px 1fr',  
+        'row-grid': '30% 70%'        
       },
 
       backgroundPosition: {        

@@ -30,13 +30,13 @@ const Aboutsection = () => {
               />
             </div>
             <div className="absolute right-6 bottom-9 z-[1] mobile:bottom-[70%] mobile:right-[0%]">
-              <div
+              <div 
                 className="let_content"
                 style={{
                   backgroundImage: `url(${Rotating_back})`,
                 }}
               >
-                <Link to="/contact-us" className="let_content_inner">
+                <Link to="/get-in-touch" className="let_content_inner">
                   <StaticImage
                     src="../images/lets_text.png"
                     className="ml-3 lazyloaded eicon-animation-spin"

@@ -39,7 +39,7 @@ const Websitedesign = () => {
                   backgroundImage: `url(${Rotating_back})`,
                 }}
               >
-                <Link to="/contact-us" className="let_content_inner">
+                <Link to="/get-in-touch" className="let_content_inner">
                   <StaticImage
                     src="../images/lets_text.png"
                     className="ml-3 lazyloaded eicon-animation-spin"
@@ -411,7 +411,7 @@ const Websitedesign = () => {
                 <li className="relative custom_faq overflow-hidden">
                   <div className="bg-black custom_left_t">
                     <button
-                      type="button"
+                      type="button" 
                       className="container mx-[auto] flex flex-col text-lg font-semibold w-full px-8 text-left relative mt-8 mb-8 active after:hidden"
                     >
                       <div className="flex items-center gap-20 pl-[64px] custom_tp tablet:gap-12">

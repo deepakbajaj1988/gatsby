@@ -4,7 +4,7 @@ import { StaticImage } from 'gatsby-plugin-image'
  
 
 
-const Hometimeline = () => {
+const Hometimeline = () => { 
   return ( 
     <>
     <section className="bg-[#000000] row-pad time-line">

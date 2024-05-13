@@ -4,7 +4,7 @@ import { StaticImage } from "gatsby-plugin-image";
 
 const HomeBlogs = () => {
   return (
-    <>
+    <> 
       <section className="row-pad relative universal-blogs">
         <div className="container">
           <div className="flex justify-between mb-[70px] items-center mobile:block tablet:mb-[50px]">

@@ -5,18 +5,17 @@ import Footer from "../components/Footer"
 import MagentoSections from "../components/magento-section"
   
 
-const MagentoCommerce = () => {
+const MagentoCommerce = () => { 
   return (   
     <>       
-    <Layout pageTitle="Our Work"></Layout>    
+    <Layout pageTitle="Magento Commerce"></Layout>    
     <Header/>  
     <MagentoSections/> 
     <Footer/>
-    </> 
- 
-
+    </>  
   ) 
 }  
 
-export const Head = () => <title>Magento Commerce</title> 
+ 
+
 export default MagentoCommerce

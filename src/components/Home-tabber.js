@@ -96,7 +96,7 @@ const HomeTabber = () => {
     </div>
   </section>
       
-    </>
+    </> 
   );
 };
 

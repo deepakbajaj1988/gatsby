@@ -83,7 +83,7 @@ const Homelogos = () => {
                   />
                 </li>
                 <li>
-                  <StaticImage
+                  <StaticImage 
                     className="m-auto"
                     alt=""
                     src="../images/home_cli11.jpg"

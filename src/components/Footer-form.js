@@ -3,11 +3,11 @@ import { Link } from "gatsby";
 
 
 const FooterForm = () => {
-  return ( 
+  return (  
     <>
   <section className="bg-black" id="form1">
   <div width="100%">
-    <div className="peralex_image relative md:py-[100px] smallLaptop:py-[80px] tabletPortrait:py-[50px] mobile:py-[50px] overflow-hidden bg-cover bg-center bg-no-repeat home_imge lozad break_t:pb-[60px]" id="contact-us">
+    <div className="peralex_image relative md:py-[100px] smallLaptop:py-[80px] tabletPortrait:py-[50px] mobile:py-[50px] overflow-hidden bg-cover bg-center bg-no-repeat home_imge lozad break_t:pb-[60px]" id="/get-in-touch"> 
       <div className="container laptop:max-w-full px-8 m-auto smallLaptop:max-w-full">
         <div className="relative md:w-full w-full m-auto">
           <div className="grid m-auto grid-cols-1">

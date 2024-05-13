@@ -86,11 +86,11 @@ const Header = () => {
                   itemprop="url"
                 >
                   Digital Marketing
-                </Link>
+                </Link> 
               </li>
             </ul> 
             <div className="Header-button ml-5">
-              <Link to="/contact-us" className="btn"> 
+              <Link to="/get-in-touch" className="btn"> 
                 Get in Touch
               </Link>
             </div>

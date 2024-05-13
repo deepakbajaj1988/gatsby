@@ -77,7 +77,7 @@ a:hover {
 
 
 h1 {
-    @apply font-bold text-[90px] leading-[100px] text-white mb-10  tablet:text-[70px] tablet:leading-[70px] mobile:text-[40px] mobile:leading-[45px] ; 
+    @apply font-bold text-[90px] leading-[100px] text-white mb-10 tablet:text-[70px] tablet:leading-[70px] mobile:text-[40px] mobile:leading-[45px] ; 
 }
 
 .h2-white {
@@ -591,6 +591,24 @@ span.big_dot.last::before {
     height: 10px;
     width: 159px;
 }
+.under_line_fr1:after {
+    background: url("../images/ft_under_line1.png") no-repeat;
+    background-position: bottom;
+    content: "";
+    background-size: contain;
+    position: absolute;
+    left: -30px;
+    bottom: -13px;
+    height: 10px;
+    width: 159px;
+}
+.get-in-touch .form_inn { 
+    margin-bottom: 20px;
+}
+
+.get-in-touch input, .get-in-touch textarea { 
+    font-size: 20px;
+}
 
 .all_fr {
     margin-bottom: 2.5rem;
@@ -799,7 +817,11 @@ span.big_dot.last::before {
     }
 
     h1 {
-        font-size: 60px;
+        font-size: 48px;
+    }
+    h3 {
+        font-size: 30px;
+        font-weight: 700;
     }
 
     .under_line2:after {
@@ -840,6 +862,10 @@ span.big_dot.last::before {
 
 
 
+
+    .get-in-touch .form_inn {
+        margin-bottom: 0px;
+    }
 
     .small-one .custom_faq button:after {       
         left: 17px; 
@@ -924,7 +950,7 @@ span.big_dot.last::before {
 
     #contact-us h2 {
         font-size: 48px !important;
-        line-height: 72px;
+        line-height: 60px;
     }
 
     .let_content {

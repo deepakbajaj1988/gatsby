@@ -36,8 +36,8 @@ const Aboutsection = () => {
                 style={{
                   backgroundImage: `url(${Rotating_back})`,
                 }}
-              >
-                <Link to="/contact-us" className="let_content_inner">
+              > 
+                <Link to="/get-in-touch" className="let_content_inner">
                   <StaticImage
                     src="../images/lets_text.png"
                     className="ml-3 lazyloaded eicon-animation-spin"

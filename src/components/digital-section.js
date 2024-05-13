@@ -39,7 +39,7 @@ const Websitedesign = () => {
                   backgroundImage: `url(${Rotating_back})`,
                 }}
               >
-                <Link to="/contact-us" className="let_content_inner">
+                <Link to="/get-in-touch" className="let_content_inner">
                   <StaticImage
                     src="../images/lets_text.png"
                     className="ml-3 lazyloaded eicon-animation-spin"
@@ -343,7 +343,7 @@ const Websitedesign = () => {
             </div>
           </div>
         </div>
-      </section> 
+      </section>  
 
       <section className="row-pad bg-[#f0f0f0] bg-no-repeat bg-[bottom_right] mobile:bg-none">
         <div className="container">

@@ -10,7 +10,7 @@ const HomeVideo = () => {
         className="bg-home-video-section-bg py-[350px] bg-no-repeat bg-cover tablet:py-[200px] mobile:tablet:py-[100px]"
         style={{
           backgroundImage: `url(${HomeVideoBG})`,
-        }}
+        }} 
       >
         <div className="container">
           <h2 className="h2-54 !text-white text-center">Badboy Furniture</h2>
